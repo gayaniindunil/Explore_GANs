@@ -1,3 +1,4 @@
+# Explore GANs 
 This repo containes codes of image generation experiments done to explore generative adversarial networks.
 
 I'm trying to generate images on various datasets with different GAN architectures.
